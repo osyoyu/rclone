@@ -357,7 +357,7 @@ It is also possible to specify a "timetable" of limits, which will cause
 certain limits to be applied at certain times. To specify a timetable, format your
 entries as "WEEKDAY-HH:MM,BANDWIDTH WEEKDAY-HH:MM,BANDWIDTH..." where:
 WEEKDAY is optional element.
-It could be written as whole world or only using 3 first characters.
+It could be written as a whole word (Sunday, Monday, ...) or only using its 3 first characters (Sun, Mon, ...).
 HH:MM is an hour from 00:00 to 23:59.
 
 An example of a typical timetable to avoid link saturation during daytime
